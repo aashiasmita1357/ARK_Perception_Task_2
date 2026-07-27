@@ -1,2 +1,2 @@
-# ARK_Perception_Task_2
+# Noise Filtering
 Noise Filtering Task-Aerial Robotic Kharagpur: Perception Team
